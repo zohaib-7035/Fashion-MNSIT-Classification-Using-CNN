@@ -9,7 +9,7 @@ A modern, interactive, and visually engaging web app that classifies fashion ite
 
 ## 📸 Demo
 
-<img src="screenshot.png" width="100%">
+<img src="Screenshot 2025-07-01 021409.png" width="100%">
 
 ---
 
